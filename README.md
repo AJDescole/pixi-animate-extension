@@ -1,3 +1,9 @@
+:warning: Fork of PixiAnimate ongoing. However, this repository won't be maintained. We'll just update some templates to render azran library files instead of full JS files. :warning:
+
+Original content of the repo : 
+
+________________________________________
+
 # PixiAnimate Extension
 
 Creates a custom FLA document which support publishing to [PixiJS](http://pixijs.com) natively in Adobe Animate CC (formerly Flash CC 2015).
